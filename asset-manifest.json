@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BreakingBadAPI/static/css/main.8c8f668d.chunk.css",
+    "main.js": "/BreakingBadAPI/static/js/main.6a203ca0.chunk.js",
+    "main.js.map": "/BreakingBadAPI/static/js/main.6a203ca0.chunk.js.map",
+    "runtime-main.js": "/BreakingBadAPI/static/js/runtime-main.742c40eb.js",
+    "runtime-main.js.map": "/BreakingBadAPI/static/js/runtime-main.742c40eb.js.map",
+    "static/css/2.235e7acd.chunk.css": "/BreakingBadAPI/static/css/2.235e7acd.chunk.css",
+    "static/js/2.fe74d407.chunk.js": "/BreakingBadAPI/static/js/2.fe74d407.chunk.js",
+    "static/js/2.fe74d407.chunk.js.map": "/BreakingBadAPI/static/js/2.fe74d407.chunk.js.map",
+    "static/js/3.06abb8d7.chunk.js": "/BreakingBadAPI/static/js/3.06abb8d7.chunk.js",
+    "static/js/3.06abb8d7.chunk.js.map": "/BreakingBadAPI/static/js/3.06abb8d7.chunk.js.map",
+    "index.html": "/BreakingBadAPI/index.html",
+    "static/css/2.235e7acd.chunk.css.map": "/BreakingBadAPI/static/css/2.235e7acd.chunk.css.map",
+    "static/css/main.8c8f668d.chunk.css.map": "/BreakingBadAPI/static/css/main.8c8f668d.chunk.css.map",
+    "static/js/2.fe74d407.chunk.js.LICENSE.txt": "/BreakingBadAPI/static/js/2.fe74d407.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/BreakingBadAPI/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742c40eb.js",
+    "static/css/2.235e7acd.chunk.css",
+    "static/js/2.fe74d407.chunk.js",
+    "static/css/main.8c8f668d.chunk.css",
+    "static/js/main.6a203ca0.chunk.js"
+  ]
+}
